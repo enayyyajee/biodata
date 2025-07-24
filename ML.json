@@ -1,0 +1,74 @@
+[
+    {
+   "nama" : "Nana",
+   "counters" : [
+    "harith",
+    "eudora",
+    "Lolita",
+    "Silvana",
+    "Odete",
+    "saber"
+   ],
+   "winrate" : "46.59%",
+   "pick rate" : "1.62%",
+   "bane rate" : "5.54%",
+   "role" : [
+    "Mage"
+   ],
+   "skill" : [
+    "Molina's skill",
+    "Magic boomerang",
+    "Molina smooch",
+    "Molina blitz"
+   ] 
+   
+},
+
+ {
+   "nama" : "Lylia",
+   "counters" : [
+    "Terizla",
+    "Hanabi",
+    "dryroth",
+    "Alfa",
+    "Harley",
+    "Marsha"
+   ],
+   "winrate" : "49.71%",
+   "pick rate" : "0.42%",
+   "bane rate" : "0.23%",
+   "role" : [
+    "Mage"
+   ],
+   "skill" : [
+    "angry gloom",
+    "Magic shockwave",
+    "Shadow energy",
+    "Black shoes"
+   ] 
+   
+}, 
+   {
+   "nama" : "Zetian",
+   "counters" : [
+    "Harith",
+    "Natalia",
+    "Paquito",
+    "Valentina",
+    "Karina"
+   ],
+   "winrate" : "49.59%",
+   "pick rate" : "1.38%",
+   "bane rate" : "35.81%",
+   "role" : [
+    "Mage"
+   ],
+   "skill" : [
+    "Calistial armament",
+    "Phoenix srike",
+    "Phoenix descent",
+    "Fury of the phoenix"
+   ] 
+}
+
+]
