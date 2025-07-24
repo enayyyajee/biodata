@@ -1,0 +1,22 @@
+{
+        "nama" : "Naila cantik", 
+        "tempat_lahir" : "Bandung",
+        "tanggal_lahir" : "2009-01-01",
+        "alamat" : {
+            "jalan" : "Jln, Sadang",
+            "desa" : "Magahayu",
+            "kecamatan" : "Margahayu tengah"
+        },
+        "hobi" : [
+            "Bermain",
+            "menonton"
+        ],
+        "kontak" : {
+            "email" : "nailanurafiantimarhas@gmail.com",
+            "whatsapp" : "089654225670",
+            "instagram" : "enayyyajee",
+            "tiktok" : "enay",
+            "twitter" : "naynay",
+            "telegram" : "yyy"
+        }
+}
